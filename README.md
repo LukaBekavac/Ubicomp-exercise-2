@@ -14,10 +14,13 @@ My idea for the activities and actions i had based on the Gaze data were followi
 Reading: A UI panel that says, "If you would like me to look up a word for you, simply say that word!" and then Integrate with the dictionary API and use Unity's UnityWebRequest to fetch the dictionary entry for the spoken word.
 Inspection: A UI panel asking if the user wants to see a 3D model of the inspected piece and then open a webpage for 3D-object
 Search: A UI panel asking if the user needs assistance searching for an item. Then opening a webbrowser where the User can search
-I started with the implementation of those elements in Unity, created the UI elements for them and also the UnityWebRequest and actions
+I started with the implementation of those elements in Unity, created the UI elements for them and also the UnityWebRequest and actions.
+The  WebLauncher library could not be imported properly for some reason and i couldnt finish the actions.
 
 Gazedata:
-I had big troubles accessing the gaze data. I tried to access it via the ARETT script, described like in the slides but it just would not work. I ultimately could access the data for some reason
+I had big troubles accessing the gaze data. I tried to access it via the ARETT script, described like in the slides but it just would not work. I ultimately could not access the data for some reason. 
+
+
 
 
 
